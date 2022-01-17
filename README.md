@@ -1,17 +1,13 @@
 <h1 align="center">Rishav Singh Solanki</h1>
 <h3 align="center">Student | Learner | Coder | Web-Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=solankirishav21&label=Profile%20views&color=0e75b6&style=flat" alt="solankirishav21" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=solankirishav21" alt="solankirishav21" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rishav-singh-solanki-b7207a1b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-singh-solanki-b7207a1b1" height="30" width="40" /></a>
 <a href="https://fb.com/sr.solanki.me.rishav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sr.solanki.me.rishav" height="30" width="40" /></a>
 <a href="https://instagram.com/solanki_rishav21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="solanki_rishav21" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/solanki_rishav21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="solanki_rishav21" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/solankirishav21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="solankirishav21" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
